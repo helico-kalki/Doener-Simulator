@@ -1,0 +1,470 @@
+{
+    "tool_tip": {
+        "misc": {
+            "hover_delay": "0.0"
+        }
+    },
+    "label": {
+        "colours": {
+            "normal_text": "#FF0000",
+            "dark_bg": "#000000"
+        }
+    },
+    "text_box": {
+        "colours": {
+            "dark_bg": "#1A1A2E",
+            "normal_text": "#E0E0E0",
+            "normal_border": "#282828"
+        },
+        "misc": {
+            "border_width": "2",
+            "border_radius": "8",
+            "padding": "10,5"
+        }
+    },
+    "#start_text": {
+        "colours": {
+            "normal_text": "#FFFFFF",
+            "dark_bg": "#282828"
+        },
+        "font": {
+            "name": "Ramadhan Mubarok Regular",
+            "size": "100",
+            "bold": "1",
+            "italic": "0",
+            "regular_path": "Python/Döner Simulator/Schriftarten/Ramadhan Mubarok.otf"
+        }
+    },
+    "#mini_button": {
+        "colours": {
+            "normal_text": "#FFFFFF",
+            "dark_bg": "#1C1C1C",
+            "normal_bg": "#1C1C1C",
+            "normal_border": "#282828"
+        },
+        "font": {
+            "name": "Inter",
+            "size": "20",
+            "bold": "1",
+            "italic": "0",
+            "regular_path": "Python/Döner Simulator/Schriftarten/Inter.ttf"
+        },
+        "misc": {
+            "text_horiz_alignment": "center",
+            "shadow_width": "0",
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "5"
+        }
+    },
+    "#start_button": {
+        "colours": {
+            "normal_text": "#FFFFFF",
+            "hovered_text": "#FFFFFF",
+            "normal_bg": "#03AB4F",
+            "hovered_bg": "#03AB4F",
+            "normal_border": "#008227",
+            "hovered_border": "#FFFFFF"
+        },
+        "font": {
+            "name": "Ramadhan Mubarok Regular",
+            "size": "50",
+            "bold": "1",
+            "italic": "0",
+            "regular_path": "Python/Döner Simulator/Schriftarten/Ramadhan Mubarok.otf"
+        },
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "45",
+            "border_width": "5",
+            "shadow_width": "5"
+        }
+    },
+    "#quit_button": {
+        "colours": {
+            "normal_text": "#FFFFFF",
+            "hovered_text": "#FFFFFF",
+            "normal_bg": "#AB033E",
+            "hovered_bg": "#AB033E",
+            "normal_border": "#82002B",
+            "hovered_border": "#FFFFFF"
+        },
+        "font": {
+            "name": "Ramadhan Mubarok Regular",
+            "size": "50",
+            "bold": "1",
+            "italic": "0",
+            "regular_path": "Python/Döner Simulator/Schriftarten/Ramadhan Mubarok.otf"
+        },
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "45",
+            "border_width": "5",
+            "shadow_width": "5"
+        }
+    },
+    "#kauf_button": {
+        "colours": {
+            "normal_text": "#FFFFFF",
+            "hovered_text": "#FFFFFF",
+            "normal_bg": "#03AB4F",
+            "hovered_bg": "#03AB4F",
+            "normal_border": "#008227",
+            "hovered_border": "#FFFFFF"
+        },
+        "font": {
+            "name": "Inter",
+            "size": "30",
+            "bold": "1",
+            "italic": "0",
+            "regular_path": "Python/Döner Simulator/Schriftarten/Inter.ttf"
+        },
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "45",
+            "border_width": "5",
+            "shadow_width": "0"
+        }
+    },
+    "#kleiner_button": {
+        "colours": {
+            "normal_text": "#FFFFFF",
+            "hovered_text": "#FFFFFF",
+            "normal_bg": "#03AB4F",
+            "hovered_bg": "#03AB4F",
+            "normal_border": "#008227",
+            "hovered_border": "#FFFFFF"
+        },
+        "font": {
+            "name": "Ramadhan Mubarok Regular",
+            "size": "50",
+            "bold": "1",
+            "italic": "0",
+            "regular_path": "Python/Döner Simulator/Schriftarten/Ramadhan Mubarok.otf"
+        },
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "45",
+            "border_width": "5",
+            "shadow_width": "0"
+        }
+    },
+    "#kleiner_roter_button": {
+        "colours": {
+            "normal_text": "#FFFFFF",
+            "hovered_text": "#FFFFFF",
+            "normal_bg": "#AB033E",
+            "hovered_bg": "#AB033E",
+            "normal_border": "#82002B",
+            "hovered_border": "#FFFFFF",
+            "dark_bg": "#AB033E"
+        },
+        "font": {
+            "name": "Inter",
+            "size": "20",
+            "bold": "1",
+            "italic": "0",
+            "regular_path": "Python/Döner Simulator/Schriftarten/Inter.ttf"
+        },
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "20",
+            "border_width": "2",
+            "shadow_width": "0"
+        }
+    },
+    "#kunde_roter_button": {
+        "colours": {
+            "normal_text": "#FFFFFF",
+            "hovered_text": "#FFFFFF",
+            "normal_bg": "#AB033E",
+            "hovered_bg": "#AB033E",
+            "normal_border": "#82002B",
+            "hovered_border": "#FFFFFF",
+            "dark_bg": "#AB033E"
+        },
+        "font": {
+            "name": "Inter",
+            "size": "25",
+            "bold": "1",
+            "italic": "0",
+            "regular_path": "Python/Döner Simulator/Schriftarten/Inter.ttf"
+        },
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "20",
+            "border_width": "2",
+            "shadow_width": "0"
+        }
+    },
+    "#kunde_grüner_button": {
+        "colours": {
+            "normal_text": "#FFFFFF",
+            "hovered_text": "#FFFFFF",
+            "normal_bg": "#03AB4F",
+            "hovered_bg": "#03AB4F",
+            "normal_border": "#008227",
+            "hovered_border": "#FFFFFF"
+        },
+        "font": {
+            "name": "Inter",
+            "size": "25",
+            "bold": "1",
+            "italic": "0",
+            "regular_path": "Python/Döner Simulator/Schriftarten/Inter.ttf"
+        },
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "20",
+            "border_width": "2",
+            "shadow_width": "0"
+        }
+    },
+    "#info_button": {
+        "colours": {
+            "normal_text": "#FFFFFF",
+            "hovered_text": "#FFFFFF",
+            "normal_bg": "#1C1C1C",
+            "hovered_bg": "#1C1C1C",
+            "normal_border": "#FFFFFF",
+            "hovered_border": "#FFFFFF",
+            "dark_bg": "#1C1C1C"
+        },
+        "font": {
+            "name": "Inter",
+            "size": "25",
+            "bold": "1",
+            "italic": "0",
+            "regular_path": "Python/Döner Simulator/Schriftarten/Inter.ttf"
+        },
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "25",
+            "border_width": "1",
+            "shadow_width": "0",
+            "text_horiz_alignment": "center",
+            "hover_delay": "0.0"
+        }
+    },
+    "#normal_klein_zentriert_hintergrund": {
+        "colours": {
+            "normal_text": "#FFFFFF",
+            "hovered_text": "#FFFFFF",
+            "normal_bg": "#1C1C1C",
+            "hovered_bg": "#1C1C1C",
+            "normal_border": "#FFFFFF",
+            "hovered_border": "#FFFFFF",
+            "dark_bg": "#1C1C1C"
+        },
+        "font": {
+            "name": "Inter",
+            "size": "25",
+            "bold": "1",
+            "italic": "0",
+            "regular_path": "Python/Döner Simulator/Schriftarten/Inter.ttf"
+        },
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "10",
+            "border_width": "1",
+            "shadow_width": "0",
+            "text_horiz_alignment": "center",
+            "hover_delay": "0.0"
+        }
+    },
+    "#titel": {
+        "colours": {
+            "normal_text": "#FFFFFF",
+            "dark_bg": "#282828"
+        },
+        "font": {
+            "name": "Ramadhan Mubarok Regular",
+            "size": "100",
+            "bold": "1",
+            "italic": "0",
+            "regular_path": "Python/Döner Simulator/Schriftarten/Ramadhan Mubarok.otf"
+        },
+        "misc": {
+            "text_horiz_alignment": "left"
+        }
+    },
+    "#kleine_überschrift": {
+        "colours": {
+            "normal_text": "#FFFFFF",
+            "dark_bg": "#282828"
+        },
+        "font": {
+            "name": "Ramadhan Mubarok Regular",
+            "size": "50",
+            "bold": "1",
+            "italic": "0",
+            "regular_path": "Python/Döner Simulator/Schriftarten/Ramadhan Mubarok.otf"
+        },
+        "misc": {
+            "text_horiz_alignment": "left"
+        }
+    },
+    "#normal": {
+        "colours": {
+            "normal_text": "#FFFFFF",
+            "dark_bg": "#282828",
+            "normal_border": "#282828"
+        },
+        "font": {
+            "name": "Inter",
+            "size": "30",
+            "bold": "1",
+            "italic": "0",
+            "regular_path": "Python/Döner Simulator/Schriftarten/Inter.ttf"
+        },
+        "misc": {
+            "text_horiz_alignment": "left",
+            "shadow_width": "0"
+        }
+    },
+    "#normal_klein": {
+        "colours": {
+            "normal_text": "#FFFFFF",
+            "dark_bg": "#282828",
+            "normal_bg": "#282828",
+            "normal_border": "#282828"
+        },
+        "font": {
+            "name": "Inter",
+            "size": "20",
+            "bold": "1",
+            "italic": "0",
+            "regular_path": "Python/Döner Simulator/Schriftarten/Inter.ttf"
+        },
+        "misc": {
+            "text_horiz_alignment": "left",
+            "shadow_width": "0"
+        }
+    },
+    "#normal_zentriert": {
+        "colours": {
+            "normal_text": "#FFFFFF",
+            "dark_bg": "#282828",
+            "normal_border": "#282828"
+        },
+        "font": {
+            "name": "Inter",
+            "size": "30",
+            "bold": "1",
+            "italic": "0",
+            "regular_path": "Python/Döner Simulator/Schriftarten/Inter.ttf"
+        },
+        "misc": {
+            "text_horiz_alignment": "center",
+            "shadow_width": "0"
+        }
+    },
+    "#normal_klein_zentriert": {
+        "colours": {
+            "normal_text": "#FFFFFF",
+            "dark_bg": "#282828",
+            "normal_border": "#282828"
+        },
+        "font": {
+            "name": "Inter",
+            "size": "16",
+            "bold": "1",
+            "italic": "0",
+            "regular_path": "Python/Döner Simulator/Schriftarten/Inter.ttf"
+        },
+        "misc": {
+            "text_horiz_alignment": "center",
+            "shadow_width": "0"
+        }
+    },
+    "#normal_mini_zentriert": {
+        "colours": {
+            "normal_text": "#FFFFFF",
+            "dark_bg": "#282828",
+            "normal_bg": "#282828",
+            "normal_border": "#282828"
+        },
+        "font": {
+            "name": "Inter",
+            "size": "10",
+            "bold": "1",
+            "italic": "0",
+            "regular_path": "Python/Döner Simulator/Schriftarten/Inter.ttf"
+        },
+        "misc": {
+            "text_horiz_alignment": "center",
+            "shadow_width": "0"
+        }
+    },
+    "#eingabe": {
+        "colours": {
+            "normal_text": "#FFFFFF",
+            "normal_bg": "#1C1C1C",
+            "dark_bg": "#1C1C1C",
+            "normal_border": "#FFFFFF"
+        },
+        "font": {
+            "name": "Inter",
+            "size": "30",
+            "bold": "1",
+            "italic": "0",
+            "regular_path": "Python/Döner Simulator/Schriftarten/Inter.ttf"
+        },
+        "misc": {
+            "text_horiz_alignment": "center",
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "10",
+            "border_width": "1",
+            "shadow_width": "0"
+        }
+    },
+    "#große_eingabe": {
+        "colours": {
+            "normal_text": "#FFFFFF",
+            "normal_bg": "#1C1C1C",
+            "dark_bg": "#1C1C1C",
+            "normal_border": "#FFFFFF"
+        },
+        "font": {
+            "name": "Inter",
+            "size": "60",
+            "bold": "1",
+            "italic": "0",
+            "regular_path": "Python/Döner Simulator/Schriftarten/Inter.ttf"
+        },
+        "misc": {
+            "text_horiz_alignment": "center",
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "20",
+            "border_width": "1",
+            "shadow_width": "0"
+        }
+    },
+    "#bewertung": {
+        "colours": {
+            "normal_text": "#FFFFFF",
+            "dark_bg": "#282828",
+            "normal_border": "#282828",
+            "text_shadow": "#282828",
+            "filled_bar": "#FFC000",
+            "unfilled_bar": "#1C1C1C"
+        },
+        "font": {
+            "name": "Inter",
+            "size": "18",
+            "bold": "1",
+            "italic": "0",
+            "regular_path": "Python/Döner Simulator/Schriftarten/Inter.ttf"
+        },
+        "misc": {
+            "text_horiz_alignment": "left",
+            "shadow_width": "0",
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "10"
+        },
+        "filled_bar": {
+            "width": "100%",
+            "height": "100%",
+            "margin": "0,0,0,0"
+        }
+    }
+}
